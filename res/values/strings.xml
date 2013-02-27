@@ -21,9 +21,9 @@
     <!-- General -->
     <skip />
     <!-- Application name -->
-    <string name="application_name" translatable="false">KILLRHome</string>
+    <string name="application_name" translatable="false">ELELauncher</string>
     <!-- Application copyright -->
-    <string name="application_copyright">Built from Trebuchet source</string>
+    <string name="application_copyright">Built off Trebuchet source</string>
     <!-- Application version -->
     <string name="application_version">2.0</string>
     <!-- Accessibility-facing application name -->
@@ -160,7 +160,7 @@ s -->
     <!-- Noun, menu item used to show the system settings -->
     <string name="menu_settings">System settings</string>
     <!-- Noun, menu item used to show the launcher preferences -->
-    <string name="menu_preferences">KILLRHome settings</string>
+    <string name="menu_preferences">ELELauncher Options</string>
     <!-- Noun, menu item used to show help. [CHAR_LIMIT=none] -->
     <string name="menu_help">Help</string>
 
@@ -310,7 +310,7 @@ s -->
     <!--             -->
     <!-- Preferences -->
     <!--             -->
-    <string name="preferences_title">Modifiers</string>
+    <string name="preferences_title">ELE Settings</string>
     <!-- UI -->
     <string name="preferences_interface_title">Launcher Home</string>
     <!-- Application -->
@@ -380,8 +380,8 @@ s -->
     <string name="preferences_interface_drawer_indicator_position_summary">Choose where to show the indicator on the screen</string>
 
     <!-- Dock -->
-    <string name="preferences_interface_dock_title">Dock Mods</string>
-    <string name="preferences_interface_dock_summary">Extended Dock Mods</string>
+    <string name="preferences_interface_dock_title">Dock Options</string>
+    <string name="preferences_interface_dock_summary">Extended Dock Options</string>
     <string name="preferences_interface_dock_enabled_summary">Show the dock underneath the homescreen</string>
     <string name="preferences_interface_dock_pages_title">Pages</string>
     <string name="preferences_interface_dock_pages_summary">Number of pages in the dock</string>
@@ -398,7 +398,7 @@ s -->
     <string name="preferences_interface_icons_title">Icons</string>
 
     <!-- General -->
-    <string name="preferences_interface_general_title">Screen Mods</string>
+    <string name="preferences_interface_general_title">Display Behavior</string>
     <string name="preferences_interface_general_summary">Rotation And Fullscreen</string>
     <string name="preferences_interface_general_orientation_title">Auto-rotate screen</string>
     <string name="preferences_interface_general_fullscreen_title">Fullscreen mode</string>
